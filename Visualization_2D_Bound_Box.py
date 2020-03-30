@@ -3,6 +3,7 @@
 Created on Sat Feb 15 14:15:00 2020
 
 @author: asadl
+Timothy Wriglesworth :: 30.03.2020
 """
 
 # -*- coding: utf-8 -*-
